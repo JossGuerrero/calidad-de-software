@@ -1,6 +1,7 @@
 print("PRUEBA DESDE CALIDAD DEL SOFTWARE")
-
-print("PRUEBAS GIT")
+print("PRUEBA DESDE CALIDAD DEL 2SOFTWARE")
+print("PRUEBA DESDE CALIDAD DEL 2SOFTWARE")
+print("PRUEB2AS GIT")
 materia = "Calidad del Software"
 print("PRUEBAS GIT")
 if (materia):
